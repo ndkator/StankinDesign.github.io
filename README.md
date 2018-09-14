@@ -1,3 +1,4 @@
+[hello](https://sun1-11.userapi.com/c831208/v831208903/7e8b4/p4PT6DNYk0w.jpg)
 ## Лабораторная работа №1
 
 **Модель-шаблон (IDEF0):**
