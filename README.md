@@ -1,6 +1,6 @@
-[hello](https://sun1-11.userapi.com/c831208/v831208903/7e8b4/p4PT6DNYk0w.jpg)
-## Лабораторная работа №1
 
+## Лабораторная работа №1
+[hello](https://sun1-11.userapi.com/c831208/v831208903/7e8b4/p4PT6DNYk0w.jpg)
 **Модель-шаблон (IDEF0):**
 * Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/Model.rsf)
 * Ссылка на модель (PNG): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/Model.png)
