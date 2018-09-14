@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Пользователь" as P {
+ Модильное устройство
+Wi-Fi Подключаться (802.11, В университете)
+}
+hide circle
+@enduml
