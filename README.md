@@ -1,3 +1,5 @@
+![](https://78.media.tumblr.com/0571b840545e623ef455448f024be550/tumblr_pf24ziPkjR1rpcmy2o1_400.jpg)
+
 ## Лабораторная работа №1
 
 **Модель-шаблон (IDEF0):**
@@ -17,6 +19,3 @@
 **Индивидуальная работа (UML, диаграмма прецедентов):**
 * Ссылка на модель (TXT): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/second.txt)
 * Ссылка на модель (PNG): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/second.png)
-
-
-![](https://78.media.tumblr.com/0571b840545e623ef455448f024be550/tumblr_pf24ziPkjR1rpcmy2o1_400.jpg)
