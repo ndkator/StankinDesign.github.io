@@ -12,7 +12,7 @@
 * Ссылка на модель (HTML): [клац](https://ndkator.github.io/HomeAuth.html)
 * Модель (PNG): 
 
-![](https://github.com/ndkator/ndkator.github.io/blob/master/Auth.png)
+-![](https://github.com/ndkator/ndkator.github.io/blob/master/Auth.png)
 
 **Индивидуальная работа (UML, диаграмма классов):**
 * Ссылка на модель (TXT): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/first.txt)
