@@ -14,7 +14,7 @@
 
 **Индивидуальная работа (UML, диаграмма классов):**
 * Ссылка на модель (TXT): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/first.txt)
-* Модель (PNG): 
+Модель (PNG): 
 - ![](https://github.com/ndkator/ndkator.github.io/blob/master/first.png)
 
 **Индивидуальная работа (UML, диаграмма прецедентов):**
