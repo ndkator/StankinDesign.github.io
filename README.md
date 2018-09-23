@@ -1,4 +1,4 @@
-[https://github.com/stankin/design-2018/wiki](https://78.media.tumblr.com/0571b840545e623ef455448f024be550/tumblr_pf24ziPkjR1rpcmy2o1_400.jpg)
+![https://github.com/stankin/design-2018/wiki](https://78.media.tumblr.com/0571b840545e623ef455448f024be550/tumblr_pf24ziPkjR1rpcmy2o1_400.jpg)
 
 ## Лабораторная работа №1
 
