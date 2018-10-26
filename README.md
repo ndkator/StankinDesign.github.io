@@ -29,6 +29,7 @@
 * Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/2/A1-A3.png)
 
 ## Лабораторная работа №3
-**Индивидуальная работа (IDEF0, A12):**
+**Индивидуальная работа (IDEF0, A1(DFD), A2(DFD)):**
 * Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/3/my.rsf)
 * Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/A12.png)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/03_A1.png)
