@@ -1,3 +1,4 @@
+## Королецкий П.В. ИДБ-15-12.
 ![](https://78.media.tumblr.com/0571b840545e623ef455448f024be550/tumblr_pf24ziPkjR1rpcmy2o1_400.jpg)
 * [Homepage](https://github.com/stankin/design-2018/wiki)
 ## Лабораторная работа №1
@@ -21,3 +22,15 @@
 **Индивидуальная работа (UML, диаграмма прецедентов):**
 * Ссылка на модель (TXT): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/1/second.txt)
 * Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/1/second.png)
+
+## Лабораторная работа №2
+**Индивидуальная работа (IDEF0, A0, A1-A3):**
+* Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/2/my.rsf)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/2/A0.png)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/2/A1-A3.png)
+
+## Лабораторная работа №3
+**Индивидуальная работа (A1-DFD, A2-DFD):**
+* Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/3/LR3.rsf)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/03_A1_.png)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/04_A2.png)
