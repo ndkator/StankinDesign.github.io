@@ -34,3 +34,14 @@
 * Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/3/LR3.rsf)
 * Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/03_A1_.png)
 * Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/04_A2.png)
+
+## Лабораторная работа №4
+**Индивидуальная работа (A0, A1-A5, A11-A53):**
+* Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/01_A0.png)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/02_A0.png)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/03_A1.png)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/04_A2.png)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/05_A3.png)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/06_A4.png)
+* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/07_A5.png)
