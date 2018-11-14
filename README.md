@@ -38,10 +38,10 @@
 ## Лабораторная работа №4
 **Индивидуальная работа (A0, A1-A5, A11-A53):**
 * Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/01_A0.png)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/02_A0.png)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/03_A1.png)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/04_A2.png)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/05_A3.png)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/06_A4.png)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/07_A5.png)
+* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/01_A0.png)
+* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/02_A0.png)
+* A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/03_A1.png)
+* A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/04_A2.png)
+* A3: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/05_A3.png)
+* A4: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/06_A4.png)
+* A5: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/07_A5.png)
