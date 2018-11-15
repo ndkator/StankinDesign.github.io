@@ -2,7 +2,7 @@
 ![](https://78.media.tumblr.com/0571b840545e623ef455448f024be550/tumblr_pf24ziPkjR1rpcmy2o1_400.jpg)
 * [Homepage](https://github.com/stankin/design-2018/wiki)
 
-![](https://github.com/ndkator/ndkator.github.io/blob/master/1/MOD1.svgz)
+![](https://github.com/ndkator/ndkator.github.io/blob/master/1/MOD1.svg)
 ## Лабораторная работа №1
 
 **Модель-шаблон (IDEF0):**
