@@ -38,10 +38,16 @@
 * Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/04_A2.png)
 
 ![](https://github.com/ndkator/ndkator.github.io/blob/master/1/MOD2.svg)
-## Лабораторная работа №4
-**Индивидуальная работа (IDEF0 курсового проекта):**
-* Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)
-* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/01_A0.png)
+## Лабораторная работа №4. Подготовка диаграмм IDEF0 курсового проекта
+**1. Определение требований к модели:**
+* Формальное определение объекта моделирования (процесса): text
+* Формальное определение точки зрения (владелец, руководитель): text
+* Формальное определение цели моделирования (вопросы к модели): text
+* Формальное определение темы курсового проекта (наименование информационной системы)
+
+**2. Разработка диаграмм в RAMUS ([IDEF0 куросового проекта](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)):**
+* Ссылка на модель (RSF): [IDEF0 куросового проекта](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)
+* Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/01_A0.png)
 * A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/02_A0.png)
 * A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/03_A1.png)
 * A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/04_A2.png)
