@@ -3,6 +3,7 @@
 * [Homepage](https://github.com/stankin/design-2018/wiki)
 
 ![](https://github.com/ndkator/ndkator.github.io/blob/master/1/MOD1.svg)
+##
 ## Лабораторная работа №1
 
 **Модель-шаблон (IDEF0):**
