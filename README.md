@@ -45,8 +45,8 @@
 * Формальное определение цели моделирования (вопросы к модели): text
 * Формальное определение темы курсового проекта (наименование информационной системы)
 
-**2. Разработка диаграмм в RAMUS ([IDEF0 куросового проекта](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)):**
-* Ссылка на модель (RSF): [IDEF0 куросового проекта](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)
+**2. Разработка диаграмм в RAMUS (IDEF0 куросового проекта):**
+* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)
 * Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/01_A0.png)
 * A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/02_A0.png)
 * A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/03_A1.png)
