@@ -5,7 +5,7 @@
      width="180" height="30"
 >
   <text font-size="20" x="5" y="20">
-    <tspan fill="red">ПЕРВЫЙ</tspan>
-    <tspan fill="blue">МОДУЛЬ</tspan>
+    <tspan fill="red">Модуль</tspan>
+    <tspan fill="blue">№1</tspan>
   </text>
 </svg>
