@@ -3,7 +3,7 @@
 * [Homepage](https://github.com/stankin/design-2018/wiki)
 
 ```html
-   <a><img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
+   <a><img src="https://github.com/ndkator/ndkator.github.io/blob/master/1/MOD1.svg"/></a>
 ```
 
 ## Лабораторная работа №1
