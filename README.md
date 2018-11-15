@@ -1,6 +1,11 @@
 ## Королецкий П.В. ИДБ-15-12.
 ![](https://78.media.tumblr.com/0571b840545e623ef455448f024be550/tumblr_pf24ziPkjR1rpcmy2o1_400.jpg)
 * [Homepage](https://github.com/stankin/design-2018/wiki)
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+TEST `#f03c15`
+TEST2
+
 ## Лабораторная работа №1
 
 **Модель-шаблон (IDEF0):**
