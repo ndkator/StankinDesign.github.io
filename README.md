@@ -45,7 +45,7 @@
 * Цели моделирования: "Визуализация процесса создания проекта по обеспечению безопасности БЛВС"
 * Тема курсового проекта: "Создание проекта по обеспечению безопасности БЛВС"
 
-**2. Разработка диаграмм в RAMUS (IDEF0 куросового проекта):**
+**2. Разработка диаграмм в RAMUS:**
 * [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)
 * Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/01_A0.png)
 * A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/02_A0.png)
