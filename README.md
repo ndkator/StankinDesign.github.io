@@ -3,7 +3,7 @@
 * [Homepage](https://github.com/stankin/design-2018/wiki)
 
 ```html
-   <span style="color: green"> Some green text </span>
+   <a><img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/></a>
 ```
 
 ## Лабораторная работа №1
