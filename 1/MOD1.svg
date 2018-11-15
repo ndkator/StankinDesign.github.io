@@ -6,6 +6,6 @@
 >
   <text font-size="20" x="5" y="20">
     <tspan fill="red">ПЕРВЫЙ</tspan>
-    <tspan fill="green">МОДУЛЬ</tspan>
+    <tspan fill="blue">МОДУЛЬ</tspan>
   </text>
 </svg>
