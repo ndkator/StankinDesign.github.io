@@ -1,6 +1,11 @@
 ## Королецкий П.В. ИДБ-15-12.
 ![](https://78.media.tumblr.com/0571b840545e623ef455448f024be550/tumblr_pf24ziPkjR1rpcmy2o1_400.jpg)
 * [Homepage](https://github.com/stankin/design-2018/wiki)
+
+```html
+   <span style="color: green"> Some green text </span>
+```
+
 ## Лабораторная работа №1
 
 **Модель-шаблон (IDEF0):**
@@ -34,3 +39,14 @@
 * Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/3/LR3.rsf)
 * Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/03_A1_.png)
 * Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/04_A2.png)
+
+## Лабораторная работа №4
+**Индивидуальная работа (IDEF0 курсового проекта):**
+* Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)
+* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/01_A0.png)
+* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/02_A0.png)
+* A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/03_A1.png)
+* A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/04_A2.png)
+* A3: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/05_A3.png)
+* A4: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/06_A4.png)
+* A5: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/07_A5.png)
