@@ -1,0 +1,34 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class Entity as "Роли"
+class Person as "Люди"
+class Property as "Инструменты"
+class Sotr as "Проектировщик системы\n безопасности БЛВС"
+class Analit as "Аналитик"
+class Designer as "Дизайнер"
+class Admin as "Администратор Linux"
+class Expert as "Эксперт\nв области\n безопасности сетей"
+class PC as "Windows PC"
+class Notebook as "Kali Linux Notebook"
+
+Entity <|-- Person
+Entity <|-- Property
+
+Person <|-- Sotr
+Person <|-- Analit
+Person <|-- Designer
+Person <|-- Admin
+Person <|-- Expert
+
+Property <|-- PC
+Property <|-- Notebook
+
+hide members
+hide circle
+hide methods
+@enduml

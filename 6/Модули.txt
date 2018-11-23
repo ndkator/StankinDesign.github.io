@@ -1,0 +1,24 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class Entity as "Модули"
+class Ef as "Экранная форма"
+class ModOb as "Модуль обработки"
+class Form1 as "Форма чтения логов с точки доступа"
+class Form2 as "Форма документирования результатов аудита"
+class ModHack as "Модуль обхода системы авторизации"
+
+Entity <|-- Ef
+Entity <|-- ModOb
+
+Ef <|-- Form1
+Ef <|-- Form2
+ModOb <|-- ModHack
+hide members
+hide circle
+hide methods
+@enduml
