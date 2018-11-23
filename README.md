@@ -46,7 +46,7 @@
 
 **2. Разработка диаграмм в RAMUS:**
 * [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/6/Course.rsf)
-* Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/01_A0.png)
+* Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/01_A0(upd).png)
 * A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/02_A0.png)
 * A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/03_A1.png)
 * A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/04_A2.png)
