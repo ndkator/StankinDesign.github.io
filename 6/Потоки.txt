@@ -1,0 +1,65 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class Entity as "Потоки"
+
+class Ef as "Входящие"
+class Ef2 as "Управляющие"
+class ModOb as "Выходящие"
+
+class Form1 as "Информация"
+class Form2 as "Ресурсы"
+class ModHack as "Ресурсы"
+class ModHack2 as "Информация"
+
+class C3 as "Документы"
+
+class D1 as "Сведения об уязвимостях"
+class D2 as "Прототип БЛВС"
+class D3 as "Ноутбук"
+class D4 as "Внешние"
+class D5 as "Внутренние"
+class D6 as "Усовершенствованный\nпрототип БЛВС"
+class D7 as "Временная"
+class D8 as "Конечная"
+
+class E1 as "802.11X: Security"
+class E2 as "Kali Linux\nOfficial documentation"
+class E3 as "Требования к оформлению документации"
+class E4 as "Логи с\nточек доступа"
+class E5 as "Результаты аудита"
+
+Entity <|-- Ef
+Entity <|-- Ef2
+Entity <|-- ModOb
+
+Ef <|-- Form1
+Ef <|-- Form2
+Ef2 <|-- C3
+ModOb <|-- ModHack
+ModOb <|-- ModHack2
+
+Form1 <|-- D1
+Form2 <|-- D2
+Form2 <|-- D3
+C3 <|-- D4
+C3 <|-- D5
+D4 <|-- E1
+D4 <|-- E2
+D5 <|-- E3
+ModHack <|-- D6
+ModHack2 <|-- D7
+ModHack2 <|-- D8
+D7 <|-- E4
+D8 <|-- E5
+
+
+
+hide members
+hide circle
+hide methods
+@enduml
