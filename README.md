@@ -45,14 +45,14 @@
 * Тема курсового проекта: "Создание проекта по обеспечению безопасности БЛВС"
 
 **2. Разработка диаграмм в RAMUS:**
-* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/4/Course.rsf)
-* Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/01_A0.png)
-* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/02_A0.png)
-* A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/03_A1.png)
-* A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/04_A2.png)
-* A3: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/05_A3.png)
-* A4: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/06_A4.png)
-* A5: ![](https://github.com/ndkator/ndkator.github.io/blob/master/4/07_A5.png)
+* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/6/Course.rsf)
+* Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/01_A0.png)
+* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/02_A0.png)
+* A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/03_A1.png)
+* A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/04_A2.png)
+* A3: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/05_A3.png)
+* A4: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/06_A4.png)
+* A5: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/08_A5.png)
 
 ## Лабораторная 5. Подготовка диаграмм DFD курсового проекта
 **1. Определение основных средств автоматизации:**
@@ -62,17 +62,13 @@
 * Определение допустимых видов хранилищ и их размещения: ???
 
 **2. Разработка диаграмм в RAMUS:**
-* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/5/Course.rsf)
+* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/6/Course.rsf)
 * Произведена декомпозиция блока A43 в DFD
 * Типы каждого блока в DFD: 1,3 - экранная форма; 2,4- печатная форма; 5 - модуль  
 обработки
 * Типы хранилищ в DFD: `БД: Hacking tools` и `БД:Аудит` — это таблицы БД, в которых содержатся сведения о известных технологиях, используемых при пентесте, а также результаты аудита соответственно. `Лог-файлы точек доступа` — это файлы, содержащие структурированную по времени информацию о результатах подключений клиентов к ТД и много другой полезной информации
-* A43: ![](https://github.com/ndkator/ndkator.github.io/blob/master/5/07_A43.png)
-P.S. В процессе создание декомпозиции DFD незначительно изменилась структура IDEF0, а именно: 
-- добавлены ограничения `Семейство стандартов IEEE 802.11` и `Требования к оформлению`
-- добавлен исполнитель `Эксперт в области безопасности сетей`
+* A43: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/07_A43.png)
 
-Обновленные IDEF0 можно лицезреть здесь: [в цвете](https://github.com/ndkator/ndkator.github.io/blob/master/5/) или [ч/б вариант](https://github.com/ndkator/ndkator.github.io/blob/master/5/models(mono))
 
 ## Лабораторная 6. Подготовка диаграмм UML курсового проекта
 **Завершение идентификации всех потоков**
@@ -87,6 +83,4 @@ P.S. В процессе создание декомпозиции DFD незн�
 **Завершение идентификации всех модулей**
 * Построение ERD (диаграммы классов без атрибутов) для всех модулей:
 ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/Модули.png)
-
-## Исправления. Обновленные диаграммы курсового проекта
-Обновленные IDEF0 и DFD можно лицезреть здесь: [в цвете](https://github.com/ndkator/ndkator.github.io/blob/master/6/README.md) или [ч/б вариант](https://github.com/ndkator/ndkator.github.io/blob/master/6/models(mono)).
+* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/6/Course.rsf)
