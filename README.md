@@ -89,4 +89,4 @@ P.S. В процессе создание декомпозиции DFD незн�
 ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/Модули.png)
 
 ## Исправления. Обновленные диаграммы курсового проекта
-
+Обновленные IDEF0 и DFD можно лицезреть здесь: [в цвете](https://github.com/ndkator/ndkator.github.io/blob/master/6/README.md) или [ч/б вариант](https://github.com/ndkator/ndkator.github.io/blob/master/6/models(mono)).
