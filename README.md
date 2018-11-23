@@ -82,4 +82,4 @@ P.S. В процессе создание декомпозиции DFD незн�
 * UML: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/Роли.png)
 **Завершение идентификации всех модулей**
 * Построение ERD (диаграммы классов без атрибутов) для всех модулей
-* UML: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/модули.png)
+* UML: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/Модули.png)
