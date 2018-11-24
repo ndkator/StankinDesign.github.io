@@ -4,7 +4,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="400" height="100"
 >
-  <text font-size="80" x="5" y="70">
+  <text font-size="60" x="5" y="60">
     <tspan fill="red">Модуль</tspan>
     <tspan fill="blue">№1</tspan>
   </text>
