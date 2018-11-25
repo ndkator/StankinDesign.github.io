@@ -5,33 +5,33 @@ skinparam class {
 	BorderColor Black
 }
 
-class Entity as "Потоки"
+class Entity as "РџРѕС‚РѕРєРё"
 
-class Ef as "Входящие"
-class Ef2 as "Управляющие"
-class ModOb as "Выходящие"
+class Ef as "Р’С…РѕРґСЏС‰РёРµ"
+class Ef2 as "РЈРїСЂР°РІР»СЏСЋС‰РёРµ"
+class ModOb as "Р’С‹С…РѕРґСЏС‰РёРµ"
 
-class Form1 as "Информация"
-class Form2 as "Ресурсы"
-class ModHack as "Ресурсы"
-class ModHack2 as "Информация"
+class Form1 as "РРЅС„РѕСЂРјР°С†РёСЏ"
+class Form2 as "Р РµСЃСѓСЂСЃС‹"
+class ModHack as "Р РµСЃСѓСЂСЃС‹"
+class ModHack2 as "РРЅС„РѕСЂРјР°С†РёСЏ"
 
-class C3 as "Документы"
+class C3 as "Р”РѕРєСѓРјРµРЅС‚С‹"
 
-class D1 as "Сведения об уязвимостях"
-class D2 as "Прототип БЛВС"
-class D3 as "Ноутбук"
-class D4 as "Внешние"
-class D5 as "Внутренние"
-class D6 as "Усовершенствованный\nпрототип БЛВС"
-class D7 as "Временная"
-class D8 as "Конечная"
+class D1 as "РЎРІРµРґРµРЅРёСЏ РѕР± СѓСЏР·РІРёРјРѕСЃС‚СЏС…"
+class D2 as "РџСЂРѕС‚РѕС‚РёРї Р‘Р›Р’РЎ"
+class D3 as "РќРѕСѓС‚Р±СѓРє"
+class D4 as "Р’РЅРµС€РЅРёРµ"
+class D5 as "Р’РЅСѓС‚СЂРµРЅРЅРёРµ"
+class D6 as "РЈСЃРѕРІРµСЂС€РµРЅСЃС‚РІРѕРІР°РЅРЅС‹Р№\nРїСЂРѕС‚РѕС‚РёРї Р‘Р›Р’РЎ"
+class D7 as "Р’СЂРµРјРµРЅРЅР°СЏ"
+class D8 as "РљРѕРЅРµС‡РЅР°СЏ"
 
 class E1 as "802.11X: Security"
 class E2 as "Kali Linux\nOfficial documentation"
-class E3 as "Требования к оформлению документации"
-class E4 as "Логи с\nточек доступа"
-class E5 as "Результаты аудита"
+class E3 as "РўСЂРµР±РѕРІР°РЅРёСЏ Рє РѕС„РѕСЂРјР»РµРЅРёСЋ РґРѕРєСѓРјРµРЅС‚Р°С†РёРё"
+class E4 as "Р›РѕРіРё СЃ\nС‚РѕС‡РµРє РґРѕСЃС‚СѓРїР°"
+class E5 as "Р РµР·СѓР»СЊС‚Р°С‚С‹ Р°СѓРґРёС‚Р°"
 
 Entity <|-- Ef
 Entity <|-- Ef2
