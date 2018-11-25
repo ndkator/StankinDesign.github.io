@@ -81,4 +81,4 @@
 ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/Модули.png)
 
 * [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/6/Course.rsf)
-* [Исходный код (UML)](https://github.com/ndkator/ndkator.github.io/blob/master/6/)
+* [Исходный код (UML)](https://github.com/ndkator/ndkator.github.io/blob/master/6/uml/)
