@@ -5,14 +5,14 @@ skinparam class {
 	BorderColor Black
 }
 
-class Entity as "Роли"
-class Person as "Люди"
-class Property as "Инструменты"
-class Sotr as "Проектировщик системы\n безопасности БЛВС"
-class Analit as "Аналитик"
-class Designer as "Дизайнер"
-class Admin as "Администратор Linux"
-class Expert as "Эксперт\nв области\n безопасности сетей"
+class Entity as "Р РѕР»Рё"
+class Person as "Р›СЋРґРё"
+class Property as "РРЅСЃС‚СЂСѓРјРµРЅС‚С‹"
+class Sotr as "РџСЂРѕРµРєС‚РёСЂРѕРІС‰РёРє СЃРёСЃС‚РµРјС‹\n Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё Р‘Р›Р’РЎ"
+class Analit as "РђРЅР°Р»РёС‚РёРє"
+class Designer as "Р”РёР·Р°Р№РЅРµСЂ"
+class Admin as "РђРґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂ Linux"
+class Expert as "Р­РєСЃРїРµСЂС‚\nРІ РѕР±Р»Р°СЃС‚Рё\n Р±РµР·РѕРїР°СЃРЅРѕСЃС‚Рё СЃРµС‚РµР№"
 class PC as "Windows PC"
 class Notebook as "Kali Linux Notebook"
 
