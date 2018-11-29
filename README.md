@@ -45,14 +45,14 @@
 * Тема курсового проекта: "ИС моделирования возможных атак"
 
 **2. Разработка диаграмм в RAMUS:**
-* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/6/Course.rsf)
-* Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/01_A0(upd).png)
-* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/02_A0.png)
-* A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/03_A1.png)
-* A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/04_A2.png)
-* A3: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/05_A3.png)
-* A4: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/06_A4.png)
-* A5: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/08_A5.png)
+* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/course/Course(mono).rsf)
+* Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/01_A0.png)
+* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/02_A0.png)
+* A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/03_A1.png)
+* A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/04_A2.png)
+* A3: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/05_A3.png)
+* A4: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/06_A4.png)
+* A5: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/08_A5.png)
 
 ## Лабораторная работа №5. Подготовка диаграмм DFD курсового проекта
 **1. Определение основных средств автоматизации:**
@@ -61,11 +61,11 @@
 * Определение допустимых видов хранилищ и их размещения: нормализованное хранилище данных, данные в котором находятся в предметно ориентированных таблицах третьей нормальной формы. Хранилище будет локальным и может располагаться на ПК, используемом при написании документации
 
 **2. Разработка диаграмм в RAMUS:**
-* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/6/Course.rsf)
+* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/course/Course(mono).rsf)
 * Произведена декомпозиция блока A43 в DFD
 * Типы каждого блока в DFD: 1 - модуль обработки; 2,3 - экранная форма
 * Типы хранилищ в DFD: `БД: Hacking tools` и `БД:Аудит` — это таблицы БД, в которых содержатся сведения о известных технологиях, используемых при пентесте, а также результаты аудита соответственно. `Лог-файлы точек доступа` — это файлы, содержащие структурированную по времени информацию о результатах подключений клиентов к ТД и много другой полезной информации
-* A43: ![](https://github.com/ndkator/ndkator.github.io/blob/master/6/07_A43.png)
+* A43: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/07_A43.png)
 
 ## Лабораторная работа №6. Подготовка диаграмм UML курсового проекта
 **Завершение идентификации всех потоков**
