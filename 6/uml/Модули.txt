@@ -8,15 +8,21 @@ skinparam class {
 class Entity as "Модули"
 class Ef as "Экранная форма"
 class ModOb as "Модуль обработки"
-class Form1 as "Форма чтения логов с точки доступа"
-class Form2 as "Форма документирования результатов аудита"
-class ModHack as "Модуль обхода системы авторизации"
+
+class Form1 as "Форма первоначальной\nнастройки точки доступа"
+class Form2 as "Форма сканирования\nэфира"
+class Form3 as "Форма документирования\nрезультатов"
+class Form4 as "Форма изменения\nнастроек точки доступа"
+
+class ModHack as "Модуль тестирования\nбезопасности точки доступа"
 
 Entity <|-- Ef
 Entity <|-- ModOb
 
 Ef <|-- Form1
 Ef <|-- Form2
+Ef <|-- Form3
+Ef <|-- Form4
 ModOb <|-- ModHack
 hide members
 hide circle
