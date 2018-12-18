@@ -12,9 +12,11 @@ class Sotr as "Проектировщик системы\n безопаснос�
 class Analit as "Аналитик"
 class Designer as "Дизайнер"
 class Admin as "Администратор Linux"
-class Expert as "Эксперт\nв области\n безопасности сетей"
-class PC as "Windows PC"
-class Notebook as "Kali Linux Notebook"
+class Expert as "Эксперт в области\n безопасности сетей"
+
+class PC as "Windows\nPC"
+class Notebook as "Kali Linux\nNotebook"
+class WiFi as "Wi-Fi\nадаптер"
 
 Entity <|-- Person
 Entity <|-- Property
@@ -27,6 +29,7 @@ Person <|-- Expert
 
 Property <|-- PC
 Property <|-- Notebook
+Property <|-- WiFi
 
 hide members
 hide circle
