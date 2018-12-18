@@ -75,7 +75,7 @@
 
 **Завершение идентификации всех ролей**
 * Построение ERD (диаграммы классов без атрибутов) для всех ролей:
-![](https://github.com/ndkator/ndkator.github.io/blob/master/6/Роли.png)
+![](https://github.com/ndkator/ndkator.github.io/blob/master/6/roles.png)
 
 **Завершение идентификации всех модулей**
 * Построение ERD (диаграммы классов без атрибутов) для всех модулей:
