@@ -45,14 +45,14 @@
 * Тема курсового проекта: "ИС моделирования возможных атак"
 
 **2. Разработка диаграмм в RAMUS:**
-* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/course/Course(mono).rsf)
-* Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/01_A0.png)
-* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/02_A0.png)
-* A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/03_A1.png)
-* A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/04_A2.png)
-* A3: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/05_A3.png)
-* A4: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/06_A4.png)
-* A5: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/08_A5.png)
+* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/Course.rsf)
+* Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/01_A0.png)
+* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/02_A0.png)
+* A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/03_A1.png)
+* A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/04_A2.png)
+* A3: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/05_A3.png)
+* A4: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/06_A4.png)
+* A5: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/09_A5.png)
 
 ## Лабораторная работа №5. Подготовка диаграмм DFD курсового проекта
 **1. Определение основных средств автоматизации:**
@@ -61,11 +61,12 @@
 * Определение допустимых видов хранилищ и их размещения: нормализованное хранилище данных, данные в котором находятся в предметно ориентированных таблицах третьей нормальной формы. Хранилище будет локальным и может располагаться на ПК, используемом при написании документации
 
 **2. Разработка диаграмм в RAMUS:**
-* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/course/Course(mono).rsf)
-* Произведена декомпозиция блока A43 в DFD; опущены блоки воздействия типа mechanism, при этом полагается, что все формы и модули, изложенные в DFD, управляются Администратором Linux при помощи Kali.
+* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/Course.rsf)
+* Произведена декомпозиция блоков A43 и A44 в DFD; опущены блоки воздействия типа mechanism, при этом полагается, что все формы и модули, изложенные в DFD, управляются Администратором Linux при помощи Kali.
 * Типы каждого блока в DFD: `Форма первоначальной настройки точки доступа`, `Форма сканирования эфира`, `Модуль тестирования безопасности точки доступа` и `Форма изменения настроек точки доступа` — это терминалы в Kali. `Форма документирования результатов` — это текстовый документ.
 * Типы хранилищ в DFD: `Среда: Эфир` — это беспроводная среда передачи данных, `БД: Уязвимости безопасности` — это несколько таблиц, содержащих информацию о современных уязвимостях в области безопасности БЛВС, `Репозиторий: Aircrack-ng` — это набор утилит, используемых при тестировании беспроводных сетей, `Лог-файл точки доступа` — это файл, содержащий структурированную по времени информацию о результатах подключений клиентов к ТД и много другой полезной информации, `Документ: Результаты` — это документ, который будет сформирован после аудита; данный документ будет подспорьем при корректировке первоначальных требований к безопасности. `Файл: Настройки точки доступа` — это конфигурационный файл ТД, который исходя от прошивки устройства определяет потенциал в области защиты ТД. 
-* A43: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/07_A43.png)
+* A43: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/07_A43.png)
+* A43: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/08_A44.png)
 
 ## Лабораторная работа №6. Подготовка диаграмм UML курсового проекта
 **Завершение идентификации всех потоков**
