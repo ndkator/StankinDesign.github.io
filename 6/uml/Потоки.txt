@@ -18,9 +18,11 @@ class ModHack2 as "Информация"
 
 class C3 as "Документы"
 
-class D1 as "Сведения об уязвимостях"
-class D2 as "Прототип БЛВС"
+class D1 as "Сведения\nоб уязвимостях"
+class D11 as "Пакет логов\nс эфира"
+class D2 as "Прототип\nБЛВС"
 class D3 as "Ноутбук"
+class D33 as "Wi-Fi\nадаптер"
 class D4 as "Внешние"
 class D5 as "Внутренние"
 class D6 as "Усовершенствованный\nпрототип БЛВС"
@@ -29,8 +31,9 @@ class D8 as "Конечная"
 
 class E1 as "802.11X: Security"
 class E2 as "Kali Linux\nOfficial documentation"
-class E3 as "Требования к оформлению документации"
+class E3 as "Требования к\nоформлению документации"
 class E4 as "Логи с\nточек доступа"
+class E44 as "Логи с\nприложения"
 class E5 as "Результаты аудита"
 
 Entity <|-- Ef
@@ -44,8 +47,10 @@ ModOb <|-- ModHack
 ModOb <|-- ModHack2
 
 Form1 <|-- D1
+Form1 <|-- D11
 Form2 <|-- D2
 Form2 <|-- D3
+Form2 <|-- D33
 C3 <|-- D4
 C3 <|-- D5
 D4 <|-- E1
@@ -55,6 +60,7 @@ ModHack <|-- D6
 ModHack2 <|-- D7
 ModHack2 <|-- D8
 D7 <|-- E4
+D7 <|-- E44
 D8 <|-- E5
 
 
