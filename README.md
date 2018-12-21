@@ -86,10 +86,11 @@
 
 
 ![](https://github.com/ndkator/ndkator.github.io/blob/master/1/MOD3.svg)
-**[Курсовая работа в формате DOCX)](https://github.com/ndkator/ndkator.github.io/blob/master/course/%D0%9F%D0%B0%D1%88%D0%B0.docx)
+
+**[Курсовая работа в формате DOCX)](https://github.com/ndkator/ndkator.github.io/blob/master/course/%D0%9F%D0%B0%D1%88%D0%B0.docx)**
+
+
 **Определение числовых показателей для поставленной цели моделирования**
-
-
 * Уточнение вопросов, на которые должна ответить модель: является ли проектируемая сеть безопасной?
 * Формализация вопросов:
 
