@@ -1,42 +1,42 @@
 ## Королецкий П.В. ИДБ-15-12.
 ![](https://78.media.tumblr.com/0571b840545e623ef455448f024be550/tumblr_pf24ziPkjR1rpcmy2o1_400.jpg)
 
-![](https://github.com/ndkator/ndkator.github.io/blob/master/1/MOD1.svg)
+![](https://github.com/ndkator/information-systems-design/blob/master/1/MOD1.svg)
 ## Лабораторная работа №1
 
 **Модель-шаблон (IDEF0):**
-* Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/1/Model.rsf)
-* Ссылка на модель (PNG): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/1/Model.png)
-* Ссылка на модель (HTML): [клац](https://ndkator.github.io/1/Home1.html)
+* Ссылка на модель (RSF): [клац](https://github.com/ndkator/information-systems-design/blob/master/1/Model.rsf)
+* Ссылка на модель (PNG): [клац](https://github.com/ndkator/information-systems-design/blob/master/1/Model.png)
+* Ссылка на модель (HTML): [клац](https://information-systems-design/1/Home1.html)
 
 **Индивидуальная работа (IDEF0):**
-* Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/1/Auth.rsf)
-* Ссылка на модель (HTML): [клац](https://ndkator.github.io/1/HomeAuth.html)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/1/Auth.png)
+* Ссылка на модель (RSF): [клац](https://github.com/ndkator/information-systems-design/blob/master/1/Auth.rsf)
+* Ссылка на модель (HTML): [клац](https://information-systems-design/1/HomeAuth.html)
+* Модель (PNG): ![](https://github.com/ndkator/information-systems-design/blob/master/1/Auth.png)
 
 **Индивидуальная работа (UML, диаграмма классов):**
-* Ссылка на модель (TXT): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/1/first.txt)
+* Ссылка на модель (TXT): [клац](https://github.com/ndkator/information-systems-design/blob/master/1/first.txt)
 * Модель (PNG): 
 
-![](https://github.com/ndkator/ndkator.github.io/blob/master/1/first.png)
+![](https://github.com/ndkator/information-systems-design/blob/master/1/first.png)
 
 **Индивидуальная работа (UML, диаграмма прецедентов):**
-* Ссылка на модель (TXT): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/1/second.txt)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/1/second.png)
+* Ссылка на модель (TXT): [клац](https://github.com/ndkator/information-systems-design/blob/master/1/second.txt)
+* Модель (PNG): ![](https://github.com/ndkator/information-systems-design/blob/master/1/second.png)
 
 ## Лабораторная работа №2
 **Индивидуальная работа (IDEF0, A0, A1-A3):**
-* Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/2/my.rsf)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/2/A0.png)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/2/A1-A3.png)
+* Ссылка на модель (RSF): [клац](https://github.com/ndkator/information-systems-design/blob/master/2/my.rsf)
+* Модель (PNG): ![](https://github.com/ndkator/information-systems-design/blob/master/2/A0.png)
+* Модель (PNG): ![](https://github.com/ndkator/information-systems-design/blob/master/2/A1-A3.png)
 
 ## Лабораторная работа №3
 **Индивидуальная работа (A1-DFD, A2-DFD):**
-* Ссылка на модель (RSF): [клац](https://github.com/ndkator/ndkator.github.io/blob/master/3/LR3.rsf)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/03_A1_.png)
-* Модель (PNG): ![](https://github.com/ndkator/ndkator.github.io/blob/master/3/04_A2.png)
+* Ссылка на модель (RSF): [клац](https://github.com/ndkator/information-systems-design/blob/master/3/LR3.rsf)
+* Модель (PNG): ![](https://github.com/ndkator/information-systems-design/blob/master/3/03_A1_.png)
+* Модель (PNG): ![](https://github.com/ndkator/information-systems-design/blob/master/3/04_A2.png)
 
-![](https://github.com/ndkator/ndkator.github.io/blob/master/1/MOD2.svg)
+![](https://github.com/ndkator/information-systems-design/blob/master/1/MOD2.svg)
 ## Лабораторная работа №4. Подготовка диаграмм IDEF0 курсового проекта
 **1. Определение требований к модели:**
 * Моделируемый процесс: "Обеспечение безопасности БЛВС"
@@ -45,14 +45,14 @@
 * Тема курсового проекта: "ИС моделирования возможных атак"
 
 **2. Разработка диаграмм в RAMUS:**
-* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/Course.rsf)
-* Контекстная диаграмма: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/01_A0.png)
-* A0: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/02_A0.png)
-* A1: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/03_A1.png)
-* A2: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/04_A2.png)
-* A3: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/05_A3.png)
-* A4: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/06_A4.png)
-* A5: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/09_A5.png)
+* [Ссылка на модель (RSF)](https://github.com/ndkator/information-systems-design/blob/master/course/new/Course.rsf)
+* Контекстная диаграмма: ![](https://github.com/ndkator/information-systems-design/blob/master/course/new/01_A0.png)
+* A0: ![](https://github.com/ndkator/information-systems-design/blob/master/course/new/02_A0.png)
+* A1: ![](https://github.com/ndkator/information-systems-design/blob/master/course/new/03_A1.png)
+* A2: ![](https://github.com/ndkator/information-systems-design/blob/master/course/new/04_A2.png)
+* A3: ![](https://github.com/ndkator/information-systems-design/blob/master/course/new/05_A3.png)
+* A4: ![](https://github.com/ndkator/information-systems-design/blob/master/course/new/06_A4.png)
+* A5: ![](https://github.com/ndkator/information-systems-design/blob/master/course/new/09_A5.png)
 
 ## Лабораторная работа №5. Подготовка диаграмм DFD курсового проекта
 **1. Определение основных средств автоматизации:**
@@ -61,46 +61,46 @@
 * Определение допустимых видов хранилищ и их размещения: нормализованное хранилище данных, данные в котором находятся в предметно ориентированных таблицах третьей нормальной формы. Хранилище будет локальным и может располагаться на ПК, используемом при написании документации
 
 **2. Разработка диаграмм в RAMUS:**
-* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/Course.rsf)
+* [Ссылка на модель (RSF)](https://github.com/ndkator/information-systems-design/blob/master/course/new/Course.rsf)
 * Произведена декомпозиция блоков A43 и A44 в DFD; пропущены блоки воздействия типа mechanism. При этом полагается, что все формы и модули, изложенные в DFD, управляются Администратором Linux при помощи Kali.
 * Типы каждого блока в DFD: `Форма выбора приложения`, `Форма анализа подозрительной активности`, `Форма первоначальной настройки точки доступа`, `Форма сканирования эфира`, `Модуль тестирования безопасности точки доступа` и `Форма изменения настроек точки доступа` — это терминалы в Kali. `Форма документирования результатов` — это текстовый документ.
 * Типы хранилищ в DFD: `Среда: Эфир` — это беспроводная среда передачи данных, `БД: Уязвимости безопасности` — это несколько таблиц, содержащих информацию о современных уязвимостях в области безопасности БЛВС, а также ссылки на конкретные утилиты, позволяющие бороться с уязвимостями, `Репозиторий: Aircrack-ng` — это набор утилит, используемых при тестировании беспроводных сетей, `Лог-файл точки доступа` — это файл, содержащий структурированную по времени информацию о результатах подключений клиентов к ТД и много другой полезной информации, `Лог-файл программы` — это файл, содержащий структурированную по времени информацию о результатах анализа эфира и соответствующего определенной ТД трафика, `Документ: Результаты` — это документ, который будет сформирован после аудита; данный документ будет подспорьем при корректировке первоначальных требований к безопасности. `Файл: Настройки точки доступа` — это конфигурационный файл ТД, который исходя от прошивки устройства определяет потенциал в области защиты ТД. 
-* A43: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/07_A43.png)
-* A44: ![](https://github.com/ndkator/ndkator.github.io/blob/master/course/new/08_A44.png)
+* A43: ![](https://github.com/ndkator/information-systems-design/blob/master/course/new/07_A43.png)
+* A44: ![](https://github.com/ndkator/information-systems-design/blob/master/course/new/08_A44.png)
 
 ## Лабораторная работа №6. Подготовка диаграмм UML курсового проекта
 **Завершение идентификации всех потоков**
 * Построение ERD (диаграммы классов без атрибутов) для всех потоков:
-![](https://github.com/ndkator/ndkator.github.io/blob/master/6/flows.png)
+![](https://github.com/ndkator/information-systems-design/blob/master/6/flows.png)
 
 **Завершение идентификации всех ролей**
 * Построение ERD (диаграммы классов без атрибутов) для всех ролей:
-![](https://github.com/ndkator/ndkator.github.io/blob/master/6/roles.png)
+![](https://github.com/ndkator/information-systems-design/blob/master/6/roles.png)
 
 **Завершение идентификации всех модулей**
 * Построение ERD (диаграммы классов без атрибутов) для всех модулей:
-![](https://github.com/ndkator/ndkator.github.io/blob/master/6/modules.png)
+![](https://github.com/ndkator/information-systems-design/blob/master/6/modules.png)
 
-* [Ссылка на модель (RSF)](https://github.com/ndkator/ndkator.github.io/blob/master/6/Course.rsf)
-* [Исходный код (UML)](https://github.com/ndkator/ndkator.github.io/blob/master/6/uml/)
+* [Ссылка на модель (RSF)](https://github.com/ndkator/information-systems-design/blob/master/6/Course.rsf)
+* [Исходный код (UML)](https://github.com/ndkator/information-systems-design/blob/master/6/uml/)
 
 
-![](https://github.com/ndkator/ndkator.github.io/blob/master/1/MOD3.svg)
+![](https://github.com/ndkator/information-systems-design/blob/master/1/MOD3.svg)
 
-**[Курсовая работа в формате DOCX](https://github.com/ndkator/ndkator.github.io/blob/master/course/%D0%9F%D0%B0%D1%88%D0%B0.docx)**
+**[Курсовая работа в формате DOCX](https://github.com/ndkator/information-systems-design/blob/master/course/%D0%9F%D0%B0%D1%88%D0%B0.docx)**
 
 **Определение числовых показателей для поставленной цели моделирования**
 * Уточнение вопросов, на которые должна ответить модель: является ли проектируемая сеть безопасной?
 * Формализация вопросов:
 
-![](https://github.com/ndkator/ndkator.github.io/blob/master/1/forma.svg)
+![](https://github.com/ndkator/information-systems-design/blob/master/1/forma.svg)
 * Определение показателей: `1 - показатель безопасности (степень защищенности)`. Он измеряется соотношением неправильных разрешений к неправильным отказам. `2 - Показатель "вредности"`. Как может снизиться производительность канала, если злоумышленник, например, вещает в эфир пустые пакеты, тем самым засоряя его. `3 - Показатель сложности подбора ключей авторизации`. Чем сложность выше, тем меньше шансов на то, что злоумышленник получит доступ к сети.
 * Определение единиц измерения для каждого показателя: `1 - Binary unit`. Аудитор либо получает доступ в сеть, что значит, что сеть небезопасна (0), либо не получает (1). `2 - Отклонение от предварительно известного значения скорости сети`, выраженное в процентном соотношении. `3 - Время (до подбора ключа)`.
 
 **Определение числовых показателей для цели потенциального проекта автоматизации**
 * Формализации показателей качества для автоматизируемых процессов: 
 
-![](https://github.com/ndkator/ndkator.github.io/blob/master/1/forma2.svg)
+![](https://github.com/ndkator/information-systems-design/blob/master/1/forma2.svg)
 * Определение зависимости показателей качества от степени автоматизированности процессов: чем выше степень автоматизированности процессов, тем выше показатели качества сети при прочих равных условиях. Автоматизированная система предполагает обработку информации на основе четко нормированных действий с применением ЭВМ и другой техники. Если в процессе теста на проникновение в прототипе будущей сети удастся найти какую-то брешь в безопасности, это положительно скажется на безопасности будущей сети, так как скорее всего эту брешь можно будет устранить. А используя автоматизированную систему вероятность успешного поиска ошибок в безопасности выше, чем при использовании отдельных инструментов, не связанных между собой.
 * Расчет потенциального эффекта от выполнения проекта автоматизации: ожидается снижение рисков, связанных с безопасностью персональных данных пользователей при использовании БЛВС. Изначально точки доступа поступают с заводскими настройками, которые нельзя использовать в реальных Enterprise-проектах из-за особых требований к сохранности персональных данных. Мониторинг эфира и тестирование безопасности сети без использования специального ПО крайне проблематично, а порой и невозможно. `Цифры`: при использовании слабых методов защиты БЛВС злоумышленнику может потребоваться < 1 минуты на обход системы защиты. Например, при использовании 8-символьного пароля только из цифр система (WPA) взламывается за 1 минуту. Также стоит отметить, например, что использование технологии WPS вкупе с заводскими настройками (в том числе и оригинальными MAC-адресами) снижает к минимуму все попытки построить адекватную систему защиты из-за уязвимостей данной технологии и позволяет обойти систему защиту злоумышленнику менее чем за 10 минут. Использование автоматизированной системы позволит провести качественный аудит и увеличить время на подбор ключа аутентификации как минимум в десятки раз. 
 
